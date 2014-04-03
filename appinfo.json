@@ -1,0 +1,20 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "1df359b4-8236-46f4-a1cb-1c13c14249cd",
+    "appKeys": {
+        "hello_msg": 0
+    },
+    "longName": "hello world",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "hello world",
+    "companyName": "awoepse@seas.upenn.edu",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
